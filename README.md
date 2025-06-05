@@ -1,1 +1,1 @@
-# credit-risj-analysis
+# credit-risk-analysis
